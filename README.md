@@ -20,6 +20,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in India
+* ⚡  I’m currently working on Python | Django | Ajax |  Bootstrap | MySQL
 * 🧠  I'm learning Data Analytics
 
 ### Skills
